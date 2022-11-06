@@ -1,19 +1,17 @@
 
+<h1>Nice to meet you, I am Diogo 😄</h1>
 
+<h2> About Me ⚙️ </h2>
+My adventure into web-developing starts with a Mechanical Engeenering degree that I took some years ago; back then I was very interested in computing design tools like SolidWorks or Ansys. During my course I had the opportunity to use those tools and my first programming tool, MatLab!
 
-**DiogoG8/DiogoG8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+After the course I enganged on one of my favorite engineering areas, control and maintenance. I worked for several years in the hospital industry 
+I worked the next years, in the maintenance and prototype/mold industry as a planner (using planning tools like NextBitt), where I watched some of the computing tools referenced in action.
 
-Here are some ideas to get you started:
+After my first years of work, I decided to take a step back and evaluate my options; as of today I am learning/working as Junior Web Developer, using tools like HTML, CSS, JavaScript and React.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<h2> Expectations :thought_balloon: </h2>
+As a person who worked for the past 2 to 3 years, I have started to understand and value some factors in a workplace. For me, is it important to always be happy, and that is where I stand. I would love to work, in a flexible and younger team, where I can (most of the time) work remotely. I truly believe, that in the right environment, people can maximize their productivity, and devotion to a company or a job – in my case, working from home and being able to have a flexible time schedule, would be the two things I would gladly appreciate in a job.Regarding myself, I believe I am methodical and definitely professional person; methodical in the sense, that when I have to do the same job every day, I find mechanisms to optimize the time and productivity. I am punctual and always show up at work, and I will always show interest to understand and solve the problems and obstacles ahead. As I said before, I believe that happiness is the key to a productive company – I will always be happy and accomplished, if I feel like I am in the right place, giving an actual contribute for a company.As for my goals, they come across what I have said earlier. I would love to grow professionally in a flexible company. I would love to give my contribute to a company and be equally and fairly rewarded for that
 
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="left">My toolbox! :toolbox: </h2>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
