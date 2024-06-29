@@ -9,7 +9,7 @@
 
 <p>Some years after my first work, I decided to go to the prototype/mold industry, where I was able to develop even more my planning skills and remember the various computing skills I have mastered in college!</p>
 
-<p> After my two previous work experiences, I decided to take a step back from the area and change my career path to the web developing world - as of right now, I am working at Critical Techworks! 💭</p>
+<p> After my two previous work experiences, I decided to take a step back from this area and changed my career path to the sofwtare developing industry - as of right now, I am working at Critical Techworks in Lisbon! 💭</p>
 
 <p>Below you will have the chance to learn the tools I have been using during my journey so far :point_down:
 <h2 align="left">My toolbox! :toolbox: </h2>
